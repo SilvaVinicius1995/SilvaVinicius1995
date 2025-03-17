@@ -3,12 +3,40 @@
 Sou Arquiteto/engenheiro de dados apaixonado por soluções de BigData utilizando a stack de produtos da Google Cloud Platform. Meu propósito profisional é ajudar empresas na jornada data driven, colaborando desde da fase de descobertar e definição da solução, até a fase de sustentação e operação, implementando plataformas de dados eficiente, economica, segura , escalavel e altemente tecnologica.
 
 
-## Hard Skills
+## Conhecimentos Técnicos
 
-<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" /> <img width='80' height='80'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> <img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> <img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" /> <img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />  <img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" />
+<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" /> 
+<img width='80' height='80'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> 
+<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
+<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" /> 
+<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" /> 
+<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" /> 
+<img width='120' src="https://miro.medium.com/v2/resize:fit:1400/0*LmRweEGtMyrIMr1b.png" /> 
+<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
-          
-          
+
+
+## Certificações
+
+<img width='80' height='80' src='https://miro.medium.com/v2/resize:fit:800/format:webp/1*yaS_pgetiwmJM8CFQi4Xsw.png'> <img width='80' height='80' src='https://miro.medium.com/v2/resize:fit:1400/1*T0_akZfhC_BmZNc0znAtdQ.png'> <img width='80' height='80' src='https://storage.googleapis.com/support-kms-prod/peBxWGahhr1QoF64AqSaoPaUfLrDjv0fN5Gh'>
+<img width='80' height='80' src='https://www.carliai.com/assets/img/GCP_MLE.png'>
+<img width='80' height='80' src='https://images.credly.com/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png'>
+<img width='80' height='80' src='https://images.credly.com/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png'>
+<img width='80' height='80' src='https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png'>
+<img width='80' height='80' src='https://miro.medium.com/v2/resize:fit:512/0*G8grLl9zQ07ikLKf.png'>
+<img width='80' height='80' src='https://images.credly.com/size/680x680/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png'>
+
+
+ ## Me Encontre
+<a href='https://www.linkedin.com/in/silvavinicius1995/'>
+<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />  
+</a> 
+<a href='mailto:vinirodrigues59@gmail.com'>
+<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />  
+</a>  
+<a href='https://wa.me/5511981110907'>
+<img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' />  
+</a>  
 
 ## Jornada em tecnologia
 
