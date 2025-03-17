@@ -87,7 +87,8 @@ Continuando o trabalho na empresa de telecomunicações, surgiu a oportunidade d
 
 Além de ter como principais responsabilidades no projeto no quesito de gestão, tive oportunidade de atuar com engenheiro de dados, implementando pipelines de dados usando o Cloud Composer (Airflow) e Google Cloud Data Fusion.
 
-#### Técnologias utilizadas: CloudSQL, Clous Storage, BigQuery, Cloud Composer(Airflow), Cloud Data Fusion, Cloud Dataproc, Network Configurations(GCP), VPC Service Controls, Cloud Logging e Cloud Monitoring.
+[Detalhes do projeto](/projects/DataPlatformTelco.md)
+#### Técnologias utilizadas: CloudSQL, Cloud Storage, BigQuery, Cloud Composer(Airflow), Cloud Data Fusion, Cloud Dataproc, Network Configurations(GCP), VPC Service Controls, Cloud Logging e Cloud Monitoring.
 
 ### 2021-2022
 
