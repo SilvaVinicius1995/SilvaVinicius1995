@@ -1,6 +1,6 @@
 ## Olá! me chamo Vinicius Silva 👋
 
-Sou Arquiteto/engenheiro de dados apaixonado por soluções de BigData utilizando a stack de produtos da Google Cloud Platform. Meu propósito profisional é ajudar empresas na jornada data driven, colaborando desde da fase de descobertar e definição da solução, até a fase de sustentação e operação, implementando plataformas de dados eficiente, economica, segura , escalavel e altemente tecnologica.
+Sou Arquiteto/Engenheiro de Dados apaixonado por soluções de Big Data utilizando a stack de produtos da Google Cloud Platform. Meu propósito profissional é ajudar empresas na jornada data-driven, colaborando desde a fase de descoberta e definição da solução até a fase de sustentação e operação, implementando plataformas de dados eficientes, econômicas, seguras, escaláveis e altamente tecnológicas.
 
 
 ## Conhecimentos Técnicos
@@ -21,7 +21,7 @@ Sou Arquiteto/engenheiro de dados apaixonado por soluções de BigData utilizand
 <img width='80' height='80' src='https://images.credly.com/size/680x680/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png'>
 
 
- ## Me Encontre
+ ## Me Encontre 📫 
 <a href='https://www.linkedin.com/in/silvavinicius1995/'>
 <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />  
 </a> 
@@ -35,7 +35,7 @@ Sou Arquiteto/engenheiro de dados apaixonado por soluções de BigData utilizand
 ## Jornada em tecnologia
 
 ### 2014-2016
-Minha jornada na area de tecnologia se iniciou em 2014 como Trainee IT em uma empresa global lider no mercado de Fabricação de tintas e revestimentos, onde minhas principais responsabilidades eram:
+Minha jornada na área de tecnologia começou em 2014 como Trainee IT em uma empresa global líder no mercado de fabricação de tintas e revestimentos. Minhas principais responsabilidades eram:
 
 - Oferecer suporte baseado em patricas do ITIL para vários sistemas, incluindo Ronda - Senior, Fusion - Neomind, Qualitor e GTM.
 - Condizir testes completos do sistema para garantir desempenho e confiabilidade ideais.
@@ -46,7 +46,7 @@ Minha jornada na area de tecnologia se iniciou em 2014 como Trainee IT em uma em
 #### Técnologias utilizadas: MSSQL
 
 ### 2016-2019
-Em 2016, assumi um novo desafio, onde o principal objetivo era evoluir, gerenciar, sustentar uma plataforma de integração de uma empresa multinacional lider do mercando de telecomunicações, tal plataforma era responsavel pelo gerenciamento de assinaturas, cobranças e mensageria relacionados à produtos VAS, onde minhas principais responsabilidades eram:
+Em 2016, assumi um novo desafio gerenciando e sustentando uma plataforma de integração em uma empresa multinacional líder do mercado de telecomunicações. A plataforma era responsável pelo gerenciamento de assinaturas, cobranças e mensageria relacionadas a produtos VAS. Minhas principais responsabilidades incluíam:
 
 - Definição e especificação de requisitos para uma nova solução de plataforma no âmbito dos Serviços de Valor Agregado (VAS).
 - Liderança do projeto de implementação da plataforma VAS, com forte ênfase na geração de valor comercial.
@@ -70,7 +70,7 @@ Tal projeto teve um grande marco tecnológico quando houve a necessidade de migr
 
 ### 2019-2021
 
-Continuando o trabalho na empresa de telecomunicações , surgiu uma oportunidade de liderar um projeto de modernização de uma plataforma de dados que tinha como objetivo, coletar, transformar e armazenar dados relacionados à CRDs gerados a partir do trafego de redes de antenas, tais dados tinha como natureza informações de ligações, mensagens, trafego de internet e geolocalização de aparelhos telefonicos, onde minhas principais responsabilidades eram:
+Continuando o trabalho na empresa de telecomunicações, surgiu a oportunidade de liderar um projeto de modernização de uma plataforma de dados cujo objetivo era coletar, transformar e armazenar dados relacionados aos CRDs gerados a partir do tráfego das redes de antenas. Esses dados incluíam informações sobre ligações, mensagens, tráfego de internet e geolocalização de aparelhos telefônicos. Minhas principais responsabilidades eram:
 
 - Atuar como coordenador técnico, supervisionando e coordenando as atividades das equipes de Dados e DevOps em projetos, garantindo a entrega bem-sucedida do projeto.
 - Desenvolver planos e arquiteturas de projeto usando soluções em nuvem, especificamente o Google Cloud Platform.
@@ -108,7 +108,7 @@ Após a conclusão do projeto anterior, fui integrado ao time de Cloud focado em
 
 ### 2022-Atualmente
 
-Em 2022, integrei ao principal time parceiro da Google Cloud dos ultimos anos, focado em atuar na fase de  design de arquitetura e também implementação de projetos de Big Data e IA, onde minhas principais responsabilidades eram:
+Em 2022, integrei o principal time parceiro da Google Cloud nos últimos anos, com foco na fase de design de arquitetura e implementação de projetos de Big Data e IA. Minhas principais responsabilidades eram:
 
 - Elaboração de estratégias e design de arquiteturas baseadas em nuvem para soluções de Big Data, especificamente na Google Cloud Platform.
 - Desenvolvimento de propostas técnicas abrangentes para projetos de dados, garantindo alinhamento com os requisitos do cliente e as melhores práticas do setor.
@@ -132,19 +132,3 @@ Em 2022, integrei ao principal time parceiro da Google Cloud dos ultimos anos, f
 
 #### Técnologias utilizadas GCP: Cloud Composer (Airflow), Cloud Functions/Run, Cloud Dataproc, Dataform, Python, Pyspark, GitLab, Azure DevOps, Cloud Storage, BigQuery, Vertex AI Workbench, Gemini API, Terraform, Cloud IAM, Cloud Logging e Cloud Monitoring.
 #### Técnologias utilizadas AWS: MWAA (Airflow), AppFlow, AWS Glue, S3, Athena, Gitlab Actions.
-
-
-<!--
-**SilvaVinicius1995/SilvaVinicius1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
