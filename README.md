@@ -63,6 +63,8 @@ Em 2016, assumi um novo desafio gerenciando e sustentando uma plataforma de inte
 
 Tal projeto teve um grande marco tecnológico quando houve a necessidade de migração de um ambiente on prime com virtualização para GCP, com o intuito de solucionar problemas de escabilidade e trafego de rede.
 
+[Detalhes do projeto](/projects/HubTechPlatform.md)
+
 [Newsletter - TIM migra serviços digitais para a nuvem do Google](https://tiinside.com.br/02/07/2020/tim-migra-servicos-digitais-para-a-nuvem-do-google/)
 
 

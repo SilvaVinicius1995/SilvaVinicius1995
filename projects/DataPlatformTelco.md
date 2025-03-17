@@ -15,3 +15,5 @@ Tal projeto tinha como objetivo a modernização de uma plataforma de dados cujo
 - Esse NFS estava anexado a um Managed Instance Group, que realizava o upload dos arquivos para o Cloud Storage por meio de outro script Shell.
 
 - Além disso, foi implementada uma DAG no Apache Airflow para processar os dados utilizando o Cloud Data Fusion e armazenar os resultados do ETL no BigQuery.
+
+[Voltar](README.md)
