@@ -2,6 +2,14 @@
 
 Sou Arquiteto/engenheiro de dados apaixonado por soluções de BigData utilizando a stack de produtos da Google Cloud Platform. Meu propósito profisional é ajudar empresas na jornada data driven, colaborando desde da fase de descobertar e definição da solução, até a fase de sustentação e operação, implementando plataformas de dados eficiente, economica, segura , escalavel e altemente tecnologica.
 
+
+## Hard Skills
+
+<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" /> <img width='80' height='80'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> <img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> <img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" /> <img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />  <img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" />
+          
+          
+          
+
 ## Jornada em tecnologia
 
 ### 2014-2016
