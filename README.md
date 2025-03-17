@@ -5,17 +5,11 @@ Sou Arquiteto/engenheiro de dados apaixonado por soluções de BigData utilizand
 
 ## Conhecimentos Técnicos
 
-<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" /> 
-<img width='80' height='80'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> 
-<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
-<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" /> 
-<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" /> 
-<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" /> 
-<img width='120' src="https://miro.medium.com/v2/resize:fit:1400/0*LmRweEGtMyrIMr1b.png" /> 
+<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" /> <img width='80' height='80'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> 
+<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> <img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" /> 
+<img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" /> <img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" /> <img width='120' src="https://miro.medium.com/v2/resize:fit:1400/0*LmRweEGtMyrIMr1b.png" /> 
 <img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
-
-
 ## Certificações
 
 <img width='80' height='80' src='https://miro.medium.com/v2/resize:fit:800/format:webp/1*yaS_pgetiwmJM8CFQi4Xsw.png'> <img width='80' height='80' src='https://miro.medium.com/v2/resize:fit:1400/1*T0_akZfhC_BmZNc0znAtdQ.png'> <img width='80' height='80' src='https://storage.googleapis.com/support-kms-prod/peBxWGahhr1QoF64AqSaoPaUfLrDjv0fN5Gh'>
