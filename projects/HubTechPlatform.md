@@ -21,4 +21,4 @@ Para otimizar esse processo e garantir a eficiência de um setor altamente estra
 - A conectividade entre a plataforma e o sistema do cliente é realizada por meio de um checkpoint e VPN.
 
 
-[Voltar](README.md)
+[Voltar](/README.md)

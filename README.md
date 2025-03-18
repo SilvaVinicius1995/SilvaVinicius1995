@@ -63,10 +63,9 @@ Em 2016, assumi um novo desafio gerenciando e sustentando uma plataforma de inte
 
 Tal projeto teve um grande marco tecnológico quando houve a necessidade de migração de um ambiente on prime com virtualização para GCP, com o intuito de solucionar problemas de escabilidade e trafego de rede.
 
-[Detalhes do projeto](/projects/HubTechPlatform.md)
 
 [Newsletter - TIM migra serviços digitais para a nuvem do Google](https://tiinside.com.br/02/07/2020/tim-migra-servicos-digitais-para-a-nuvem-do-google/)
-
+[Detalhes do projeto](/projects/HubTechPlatform.md)
 
 #### Técnologias utilizadas: MySQL, MongoDB, Linux,  Pentaho, Oracle Database, Rest API, Compute Engine, Network Configurations(GCP), BigQuery, Looker Studio, Cloud Logging e Cloud Monitoring.
 
@@ -85,11 +84,12 @@ Continuando o trabalho na empresa de telecomunicações, surgiu a oportunidade d
 
 [Newsletter - TIM faz parceria com Google Cloud para soluções de Big Data e Machine Learning](https://canaltech.com.br/computacao-na-nuvem/tim-faz-parceria-com-google-cloud-para-solucoes-de-big-data-e-machine-learning-163880/)
 
+[Detalhes do projeto](/projects/DataPlatformTelco.md)
 #### Primeiro contato com Engenharia de dados (2020)
 
 Além de ter como principais responsabilidades no projeto no quesito de gestão, tive oportunidade de atuar com engenheiro de dados, implementando pipelines de dados usando o Cloud Composer (Airflow) e Google Cloud Data Fusion.
 
-[Detalhes do projeto](/projects/DataPlatformTelco.md)
+
 #### Técnologias utilizadas: CloudSQL, Cloud Storage, BigQuery, Cloud Composer(Airflow), Cloud Data Fusion, Cloud Dataproc, Network Configurations(GCP), VPC Service Controls, Cloud Logging e Cloud Monitoring.
 
 ### 2021-2022

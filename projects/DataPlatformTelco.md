@@ -16,4 +16,4 @@ Tal projeto tinha como objetivo a modernização de uma plataforma de dados cujo
 
 - Além disso, foi implementada uma DAG no Apache Airflow para processar os dados utilizando o Cloud Data Fusion e armazenar os resultados do ETL no BigQuery.
 
-[Voltar](README.md)
+[Voltar](/README.md)
