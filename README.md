@@ -65,7 +65,8 @@ Tal projeto teve um grande marco tecnológico quando houve a necessidade de migr
 
 
 [Newsletter - TIM migra serviços digitais para a nuvem do Google](https://tiinside.com.br/02/07/2020/tim-migra-servicos-digitais-para-a-nuvem-do-google/)
-[Detalhes do projeto](/projects/HubTechPlatform.md)
+
+[Detalhes do projeto Plataforma de integração de empresa do segmento de Telecom](/projects/HubTechPlatform.md)
 
 #### Técnologias utilizadas: MySQL, MongoDB, Linux,  Pentaho, Oracle Database, Rest API, Compute Engine, Network Configurations(GCP), BigQuery, Looker Studio, Cloud Logging e Cloud Monitoring.
 
@@ -84,7 +85,7 @@ Continuando o trabalho na empresa de telecomunicações, surgiu a oportunidade d
 
 [Newsletter - TIM faz parceria com Google Cloud para soluções de Big Data e Machine Learning](https://canaltech.com.br/computacao-na-nuvem/tim-faz-parceria-com-google-cloud-para-solucoes-de-big-data-e-machine-learning-163880/)
 
-[Detalhes do projeto](/projects/DataPlatformTelco.md)
+[Detalhes do projeto Data Platform empresa do segmento de Telecom](/projects/DataPlatformTelco.md)
 #### Primeiro contato com Engenharia de dados (2020)
 
 Além de ter como principais responsabilidades no projeto no quesito de gestão, tive oportunidade de atuar com engenheiro de dados, implementando pipelines de dados usando o Cloud Composer (Airflow) e Google Cloud Data Fusion.
@@ -132,6 +133,8 @@ Em 2022, integrei o principal time parceiro da Google Cloud nos últimos anos, c
   - Implementação de processo para realizar curadoria do prompts de geração de variáveis cognitivas e preditivas (Vertex AI Workbench)
 
 #### Primeiro contato com AWS (2023)
+
+[Detalhes do projeto Data Platform empresa do segmento de saneamento básico](/projects/DataPlatformSaneamento.md)
 
 #### Técnologias utilizadas GCP: Cloud Composer (Airflow), Cloud Functions/Run, Cloud Dataproc, Dataform, Python, Pyspark, GitLab, Azure DevOps, Cloud Storage, BigQuery, Vertex AI Workbench, Gemini API, Terraform, Cloud IAM, Cloud Logging e Cloud Monitoring.
 #### Técnologias utilizadas AWS: MWAA (Airflow), AppFlow, AWS Glue, S3, Athena, Gitlab Actions.
