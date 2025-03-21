@@ -138,5 +138,7 @@ Em 2022, integrei o principal time parceiro da Google Cloud nos últimos anos, c
 
 [Detalhes do projeto Data Platform Speech Analytics com GenAI](/projects/DataPlatformTelcoGenAi.md)
 
+[Detalhes do projeto Data Platform Seguradora](/projects/DataPlatformSeguradora.md)
+
 #### Técnologias utilizadas GCP: Cloud Composer (Airflow), Cloud Functions/Run, Cloud Dataproc, Dataform, Python, Pyspark, GitLab, Azure DevOps, Cloud Storage, BigQuery, Vertex AI Workbench, Gemini API, Terraform, Cloud IAM, Cloud Logging e Cloud Monitoring.
 #### Técnologias utilizadas AWS: MWAA (Airflow), AppFlow, AWS Glue, S3, Athena, Gitlab Actions.
